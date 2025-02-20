@@ -6,12 +6,7 @@
 - 🔭 Currently working on **Sign-Bridge**
 - 🌱 Currently learning **Backend Development.**
 - 📫 Reach me at  **Vedankxb@gmail.com**
-- ⚡ Fun fact **
-- 🎮 Gaming = RPGs, and open-world adventures are my jam! 🎶
--  🎶 Music = Coding Boost – Lo-fi, anime OSTs, and game soundtracks keep me going!
--  🌀 Anime Lover – Every project feels like a shonen training arc!
--  🍜 Late Night Coder – Runs on caffeine, snacks, and the will of fire! 🔥
--  🏔️ Trekker IRL, Explorer in Games – Love both real and virtual adventures!**
+- ⚡ Fun fact -🎮 Gaming||🎶 Music||🌀 Anime Lover ||🍜 Late Night Coder||🏔️ Trekker IRL 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
